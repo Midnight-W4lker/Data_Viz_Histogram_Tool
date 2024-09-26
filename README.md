@@ -25,3 +25,12 @@ This tool allows users to upload any dataset (in CSV format) and quickly generat
    ```bash
    git clone https://github.com/Midnight-W4lker/DataViz-Histogram-Tool.git
    cd DataViz-Histogram-Tool
+   
+2. Install required libraries:
+   ```
+   pip install -r requirements.txt
+   
+3. Run the app:
+   ```
+   python app.py
+   
